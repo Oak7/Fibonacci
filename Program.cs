@@ -13,13 +13,24 @@ namespace Fibonacci
             Console.Write("Quantos valores: ");
             int valores = int.Parse(Console.ReadLine());
 
-            Console.WriteLine("Sequência de Fibonacci com  {0} valores", valores);
+            Console.WriteLine("Sequência de Fibonacci com  {0} valores!", valores);
 
             for(int i = 0; i <valores; i++)
             {
+                if(i < valores - 1)
+                {
+                    Console.Write(a + ", ");
+                }
+                else
+                {
+                     Console.WriteLine(a);
+                }
+                
+                c = a + b;
+                a = b;
+                b = c;
 
             }
-
         }
     }
 }

@@ -1,0 +1,16 @@
+/home/gabi/Desktop/Fibonacci/Fibonacci/bin/Debug/net5.0/Fibonacci
+/home/gabi/Desktop/Fibonacci/Fibonacci/bin/Debug/net5.0/Fibonacci.deps.json
+/home/gabi/Desktop/Fibonacci/Fibonacci/bin/Debug/net5.0/Fibonacci.runtimeconfig.json
+/home/gabi/Desktop/Fibonacci/Fibonacci/bin/Debug/net5.0/Fibonacci.runtimeconfig.dev.json
+/home/gabi/Desktop/Fibonacci/Fibonacci/bin/Debug/net5.0/Fibonacci.dll
+/home/gabi/Desktop/Fibonacci/Fibonacci/bin/Debug/net5.0/ref/Fibonacci.dll
+/home/gabi/Desktop/Fibonacci/Fibonacci/bin/Debug/net5.0/Fibonacci.pdb
+/home/gabi/Desktop/Fibonacci/Fibonacci/obj/Debug/net5.0/Fibonacci.csprojAssemblyReference.cache
+/home/gabi/Desktop/Fibonacci/Fibonacci/obj/Debug/net5.0/Fibonacci.GeneratedMSBuildEditorConfig.editorconfig
+/home/gabi/Desktop/Fibonacci/Fibonacci/obj/Debug/net5.0/Fibonacci.AssemblyInfoInputs.cache
+/home/gabi/Desktop/Fibonacci/Fibonacci/obj/Debug/net5.0/Fibonacci.AssemblyInfo.cs
+/home/gabi/Desktop/Fibonacci/Fibonacci/obj/Debug/net5.0/Fibonacci.csproj.CoreCompileInputs.cache
+/home/gabi/Desktop/Fibonacci/Fibonacci/obj/Debug/net5.0/Fibonacci.dll
+/home/gabi/Desktop/Fibonacci/Fibonacci/obj/Debug/net5.0/ref/Fibonacci.dll
+/home/gabi/Desktop/Fibonacci/Fibonacci/obj/Debug/net5.0/Fibonacci.pdb
+/home/gabi/Desktop/Fibonacci/Fibonacci/obj/Debug/net5.0/Fibonacci.genruntimeconfig.cache
