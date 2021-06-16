@@ -31,6 +31,7 @@ namespace Fibonacci
                 b = c;
 
             }
+            Console.ReadKey();//para ter um pause no final
         }
     }
 }
